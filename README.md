@@ -9,3 +9,4 @@ The study of natural language processing has been around for more than 50 years 
 
 ## NLP PHASES 
 
+![image](https://user-images.githubusercontent.com/63282184/135890477-f3b29a05-6d45-46e1-a51a-5f3ac55ad948.png)
