@@ -19,3 +19,5 @@ The study of natural language processing has been around for more than 50 years 
 
 - An email has become one of the foremost important kinds of communication. 
 - In 2014, there are estimated to be 4.1 billion email accounts worldwide, and about 196 billion emails are sent day after day worldwide. 
+- Spam is one of the main threats posed to email users. 
+- All email flows that were spam in 2013 are 69.6%. 
