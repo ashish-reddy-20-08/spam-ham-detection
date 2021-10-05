@@ -29,3 +29,4 @@ The study of natural language processing has been around for more than 50 years 
 - NAIVE BAYES
 - DECISION TREES
 - SUPPORT VECTOR MACHINES (SVM)
+- RANDOM FOREST
