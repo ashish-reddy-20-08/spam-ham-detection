@@ -21,3 +21,4 @@ The study of natural language processing has been around for more than 50 years 
 - In 2014, there are estimated to be 4.1 billion email accounts worldwide, and about 196 billion emails are sent day after day worldwide. 
 - Spam is one of the main threats posed to email users. 
 - All email flows that were spam in 2013 are 69.6%. 
+- Therefore, an effective spam filtering technology is a significant contribution to the sustainability of cyberspace and our society. 
