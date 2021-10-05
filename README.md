@@ -18,3 +18,4 @@ The study of natural language processing has been around for more than 50 years 
 ## WHY SPAM DETECTION?
 
 - An email has become one of the foremost important kinds of communication. 
+- In 2014, there are estimated to be 4.1 billion email accounts worldwide, and about 196 billion emails are sent day after day worldwide. 
