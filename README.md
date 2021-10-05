@@ -25,3 +25,5 @@ The study of natural language processing has been around for more than 50 years 
 - As the importance of email is not lesser than your bank account containing 1Cr., then protecting it from spam or frauds is also mandatory.
 
 ## MODELS FOR SPAM HAM DETECTION
+
+- NAIVE BAYES
