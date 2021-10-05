@@ -22,3 +22,4 @@ The study of natural language processing has been around for more than 50 years 
 - Spam is one of the main threats posed to email users. 
 - All email flows that were spam in 2013 are 69.6%. 
 - Therefore, an effective spam filtering technology is a significant contribution to the sustainability of cyberspace and our society. 
+- As the importance of email is not lesser than your bank account containing 1Cr., then protecting it from spam or frauds is also mandatory.
