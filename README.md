@@ -27,3 +27,4 @@ The study of natural language processing has been around for more than 50 years 
 ## MODELS FOR SPAM HAM DETECTION
 
 - NAIVE BAYES
+- DECISION TREES
